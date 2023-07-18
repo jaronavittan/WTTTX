@@ -12,6 +12,22 @@ h3 {
   text-align: center;
 }
 
+
 html * {
   font-family: 'Courier New', Courier, monospace;
+}
+
+
+nav {
+  text-align: center;
+}
+
+
+p {
+  text-align: center;
+}
+
+
+form {
+  text-align: center;
 }
